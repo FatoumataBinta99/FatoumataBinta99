@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Salut, je suis Fatoumata Binta  
 
-<!--
-**FatoumataBinta99/FatoumataBinta99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeuse web et mobile passionnée par la technologie et l'expérience utilisateur.  
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi  
+- 👀 Je m'intéresse au **développement web et mobile**, ainsi qu'à **l'UX/UI design**.  
+- 🌱 J'apprends actuellement **HTML, CSS, JavaScript et React**.  
+- 💞️ Je cherche à collaborer sur **des projets open source liés à l'éducation**.  
+- 🎯 Objectif : Devenir **développeuse full-stack** et contribuer à des projets innovants.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter  
+📧 [diallovbdm@gmail.com](mailto:diallovbdm@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/fatoumatabinta/)  
+
+## ⚡ Fun fact  
+🎉 Je suis une grande passionnée d'**internet et des nouvelles technologies** !  
